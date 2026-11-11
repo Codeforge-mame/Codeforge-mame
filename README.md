@@ -1,8 +1,5 @@
 # Hi there, I'm Mohammed Ahmed 👋
 
-<!-- Visitor Counter -->
-![Visitor Count](https://hits.seeyoufarm.cn/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodeforge-mame&count_bg=%237928CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 ### 🚀 Full-Stack AI Engineer
 I specialize in building intelligent, scalable web applications, integrating AI/LLM workflows, and implementing robust backend security.
 
@@ -28,7 +25,7 @@ I specialize in building intelligent, scalable web applications, integrating AI/
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
   ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-- **Backend Security & Architecture**  
+- **Backend Security & Infrastructure**  
   ![Database Security](https://img.shields.io/badge/Database-Authorization%20%26%20RLS-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,14 +37,14 @@ I specialize in building intelligent, scalable web applications, integrating AI/
 - Full-Stack Web App Development (React / Next.js / FastAPI / Express / Supabase)
 - Custom AI Chatbot & LLM Integration
 - Secure Backend Architecture (Database RLS, Rate Limiting, RBAC, Cloudflare R2 Storage)
-👉 [Work with me on Fiverr](https://www.fiverr.com/s/Bb83Kmb)
+👉 [Work with me on Fiverr](https://fiverr.com)
 
 ---
 
-### 📈 Contribution Activity
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeforge-mame&theme=react-dark" alt="Mohammed's Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codeforge-mame&theme=dark" alt="Mohammed's GitHub summary" />
 </p>
 
 ---
