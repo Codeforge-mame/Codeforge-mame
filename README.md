@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Mohammed Ahmed 👋
 
-<!--
-**Codeforge-mame/Codeforge-mame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack AI Engineer
+I specialize in building secure, scalable AI applications, integrating LLM workflows, and developing robust web systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, TypeScript, JavaScript
+- **Backend & AI:** FastAPI, Node.js, REST APIs, Celery, LLM Integration
+- **Frontend & Mobile:** React, React Native, Nextjs
+- **Security & DevOps:** Web Security, RBAC, Authentication, Docker, Git
+
+---
+
+### 💼 Services & Freelancing
+- Custom AI Chatbot & Agent Development
+- Full-Stack Web & Mobile App Development
+- Secure API Design & System Architecture
+👉 [Work with me on Fiverr](https://www.fiverr.com/s/Bb83Kmb)
+
+---
+
+### 📫 Connect with Me
+- **Email:** alidevyou@gmail.com
+- **Location:** Ethiopia (UTC +03:00)
