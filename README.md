@@ -37,34 +37,17 @@ I specialize in building intelligent, scalable web applications, integrating AI/
 ---
 
 ### 💼 Services & Freelancing
-- Full-Stack Web App Development (React / Next.js / FastAPI / Express)
+- Full-Stack Web App Development (React / Next.js / FastAPI / Express / Supabase)
 - Custom AI Chatbot & LLM Integration
-- Secure Backend Architecture & Data Isolation (Row-Level Security, RBAC)
-👉 [Work with me on Fiverr](https://fiverr.com)
+- Secure Backend Architecture (Database RLS, Rate Limiting, RBAC, Cloudflare R2 Storage)
+👉 [Work with me on Fiverr](https://www.fiverr.com/s/Bb83Kmb)
 
 ---
 
-### 🌟 Featured Projects
+### 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/Codeforge-mame/chatbot_saas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Codeforge-mame&repo=chatbot_saas&theme=radical&show_icons=true" alt="chatbot_saas" />
-  </a>
-  <a href="https://github.com/Codeforge-mame/AI-Video-Generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Codeforge-mame&repo=AI-Video-Generator&theme=radical&show_icons=true" alt="AI-Video-Generator" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codeforge-mame&show_icons=true&theme=radical" alt="Mohammed's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeforge-mame&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeforge-mame&theme=react-dark" alt="Mohammed's Activity Graph" width="100%" />
 </p>
 
 ---
