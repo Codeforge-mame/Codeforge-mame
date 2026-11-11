@@ -8,8 +8,8 @@ I specialize in building secure, scalable AI applications, integrating LLM workf
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python, TypeScript, JavaScript
 - **Backend & AI:** FastAPI, Node.js, REST APIs, Celery, LLM Integration
-- **Frontend & Mobile:** React, React Native, Nextjs
-- **Security & DevOps:** Web Security, RBAC, Authentication, Docker, Git
+- **Frontend & Mobile:** React, React Native, Next.js
+- **Backend Security & Architecture:** Database Authorization, Row-Level Security (RLS), Server Isolation, Authentication, Docker, Git
 
 ---
 
