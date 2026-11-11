@@ -1,6 +1,10 @@
 # Hi there, I'm Mohammed Ahmed 👋
 
+---
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Codeforge-mame&color=7928ca&style=flat-square)
+
+---
 
 ### 🚀 Full-Stack AI Engineer
 I specialize in building intelligent, scalable web applications, integrating AI/LLM workflows, and implementing robust backend security.
@@ -32,6 +36,15 @@ I specialize in building intelligent, scalable web applications, integrating AI/
   ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### ⚙️ System Architecture & Production Standards
+
+- 🔐 **Data Isolation & Tenant Security:** Row-Level Security (RLS) policies, Role-Based Access Control (RBAC), and strict database authorization boundaries.
+- ⚡ **API Reliability & Protection:** Sliding-window rate-limiting and token caching powered by Redis & FastAPI / Express middleware.
+- 🔄 **Async Processing & AI Pipelines:** Heavy AI media and background jobs offloaded to Celery worker queues with retry policies.
+- ☁️ **Media & Storage Architecture:** S3-compatible cloud object storage using Cloudflare R2 for fast asset delivery and low transfer costs.
 
 ---
 
