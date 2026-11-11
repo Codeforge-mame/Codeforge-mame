@@ -1,7 +1,6 @@
 # Hi there, I'm Mohammed Ahmed 👋
 
-<!-- Visitor Counter -->
-![Visitor Count](https://hits.seeyoufarm.cn/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodeforge-mame&count_bg=%237928CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Visitor Count](https://komarev.com/ghpvc/?username=Codeforge-mame&color=7928ca&style=flat-square)
 
 ### 🚀 Full-Stack AI Engineer
 I specialize in building intelligent, scalable web applications, integrating AI/LLM workflows, and implementing robust backend security.
@@ -36,32 +35,22 @@ I specialize in building intelligent, scalable web applications, integrating AI/
 
 ---
 
-### ⚙️ System Architecture & Production Standards
-
-- 🔐 **Data Isolation & Tenant Security:** Row-Level Security (RLS) policies, Role-Based Access Control (RBAC), and strict database authorization boundaries.
-- ⚡ **API Reliability & Protection:** Sliding-window rate-limiting and token caching powered by Redis & FastAPI / Express middleware.
-- 🔄 **Async Processing & AI Pipelines:** Heavy AI media and background jobs offloaded to Celery worker queues with retry policies.
-- ☁️ **Media & Storage Architecture:** S3-compatible cloud object storage using Cloudflare R2 for fast asset delivery and low transfer costs.
-
----
-
 ### 💼 Services & Freelancing
 - Full-Stack Web App Development (React / Next.js / FastAPI / Express / Supabase)
 - Custom AI Chatbot & LLM Integration
 - Secure Backend Architecture (Database RLS, Rate Limiting, RBAC, Cloudflare R2 Storage)
-👉 [Work with me on Fiverr](https://www.fiverr.com/s/Bb83Kmb)
-
----
-
-### 🌟 Featured Repositories
-
-- **[chatbot_saas](https://github.com/Codeforge-mame/chatbot_saas)** — Multi-tenant AI Chatbot platform with backend rate-limiting & database RLS isolation.
-- **[AI-Video-Generator](https://github.com/Codeforge-mame/AI-Video-Generator)** — AI video generation engine with asynchronous background worker queues.
-- **[fast_download_mobile](https://github.com/Codeforge-mame/fast_download_mobile)** — Mobile application built for optimized download speeds and lightweight UI performance.
+👉 [Work with me on Fiverr](https://fiverr.com)
 
 ---
 
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codeforge-mame&theme=dark" alt="Mohammed'
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codeforge-mame&theme=dark" alt="Mohammed's GitHub summary" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- **Email:** alidevyou@gmail.com
+- **Location:** Ethiopia (UTC +03:00)
