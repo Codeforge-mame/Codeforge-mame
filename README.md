@@ -52,7 +52,7 @@ I specialize in building intelligent, scalable web applications, integrating AI/
 - Full-Stack Web App Development (React / Next.js / FastAPI / Express / Supabase)
 - Custom AI Chatbot & LLM Integration
 - Secure Backend Architecture (Database RLS, Rate Limiting, RBAC, Cloudflare R2 Storage)
-👉 [Work with me on Fiverr](https://fiverr.com)
+👉 [Work with me on Fiverr](https://www.fiverr.com/s/K3wydYV)
 
 ---
 
